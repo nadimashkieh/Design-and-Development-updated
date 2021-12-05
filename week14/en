@@ -1,0 +1,806 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="">
+
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-X6KKHKT5GN"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+    
+      gtag('config', 'G-X6KKHKT5GN');
+    </script>
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+
+        <title>Minteshreen - Home</title>
+    <meta name="title" content="Minteshreen - Home">
+    <meta name="description" content="We are Minteshreen, we are Lebanese hailing from every corner of Lebanon and from all around the world. We believe that actual change in Lebanon can only be achieved through organized political action aimed at establishing a new social contract that paves the way towards a modern secular democratic state, based on social justice, the rule of law and the respect for human rights">
+
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="http://localhost/minteshreen/public">
+    <meta property="og:title" content="Minteshreen - Home">
+    <meta property="og:description" content="We are Minteshreen, we are Lebanese hailing from every corner of Lebanon and from all around the world. We believe that actual change in Lebanon can only be achieved through organized political action aimed at establishing a new social contract that paves the way towards a modern secular democratic state, based on social justice, the rule of law and the respect for human rights">
+    <meta property="og:image" content="https://minteshreen.com/storage/">
+
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:url" content="http://localhost/minteshreen/public">
+    <meta property="twitter:title" content="Minteshreen - Home">
+    <meta property="twitter:description" content="We are Minteshreen, we are Lebanese hailing from every corner of Lebanon and from all around the world. We believe that actual change in Lebanon can only be achieved through organized political action aimed at establishing a new social contract that paves the way towards a modern secular democratic state, based on social justice, the rule of law and the respect for human rights">
+    <meta property="twitter:image" content="https://minteshreen.com/storage/">
+
+
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cairo&display=swap" rel="stylesheet">
+    <link rel="stylesheet" text="text/css" href="https://minteshreen.com/fonts/stylesheet.css">
+            <link rel="stylesheet" text="text/css" href="https://minteshreen.com/css/bootstrap.min.css">
+        <!-- styles -->
+    <link rel="stylesheet" text="text/css" href="https://minteshreen.com/css/main.css">
+    <!-- swiper -->
+    <link rel="stylesheet" href="https://unpkg.com/swiper/swiper-bundle.min.css" />
+
+    <!-- animation -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.1.2/fullpage.css" text="text/css">
+    <link href="https://minteshreen.com/css/locomotive-scroll.css">
+
+
+</head>
+
+<body>
+
+    <div data-scroll-container>
+
+                    <div class="navbar-header" data-scroll-section>
+    <div class="container py-4">
+        <div class="row align-items-center ">
+            <div class="col d-block d-lg-none">
+                <div id="nav-icon1" class="burger open-mobile-menu ">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+            </div>
+
+            <div class="col-auto">
+                <a href="https://minteshreen.com/en">
+                    <img src="https://minteshreen.com/images/logo.svg" alt="logo" data-scroll data-scroll-direction="vertical" data-scroll-speed="2" data-scroll-position="top">
+                </a>
+            </div>
+
+            <div class="col d-none d-lg-block">
+                <hr class="color w-100">
+            </div>
+            <div class="col-auto d-none d-lg-block ">
+                <a href="#">
+                    <img class="search-slide" src="https://minteshreen.com/images/search.svg" alt="icon">
+                </a>
+            </div>
+            <div class="col-auto d-none d-lg-block">
+                <hr class="color">
+            </div>
+
+            <div class="col-auto " data-scroll data-scroll-direction="vertical" data-scroll-speed="2" data-scroll-position="top">
+                <div class="lang d-none d-lg-flex">
+                    <p><a class="lang-en p-2" href="https://minteshreen.com/en">Eng</a></p>
+                    <p><a class="lang-ar p-2" class="ps-2" href="https://minteshreen.com/ar">عربي</a></p>
+                </div>
+            </div>
+        </div>
+
+
+        <div class="row align-items-center pt-4 d-none d-lg-flex">
+            <div class="col nav-items d-flex" data-scroll data-scroll-direction="vertical" data-scroll-speed="-2" data-scroll-position="top">
+                                                            <a class="me-2 nav-item active" href="https://minteshreen.com/en">HOME</a>
+                                                                                <div class="dropdown me-2 nav-item ">
+                            <a class="d-block" href="#">WHO WE ARE</a>
+                            <div class="dropdown-content text-center shadow">
+                                                                                                        <a href="https://minteshreen.com/en/the-story">
+                                        <div>OUR STORY</div>
+                                    </a>
+                                                                                                            <div class="line-dropdown line-ar-rotate"></div>
+                                                                        <a href="https://minteshreen.com/en/how-we-got-here">
+                                        <div>HOW WE GOT HERE</div>
+                                    </a>
+                                                                                                            <div class="line-dropdown line-ar-rotate"></div>
+                                                                        <a href="https://minteshreen.com/en/the-team">
+                                        <div>GOVERNANCE</div>
+                                    </a>
+                                                                                                            <div class="line-dropdown line-ar-rotate"></div>
+                                                                        <a href="https://minteshreen.com/en/our-roadmap">
+                                        <div>VISION</div>
+                                    </a>
+                                                            </div>
+                        </div>
+                                                                                <a class="me-2 nav-item " href="https://minteshreen.com/en/what-we-stand-for">POLITICAL PROGRAM</a>
+                                                                                <div class="dropdown me-2 nav-item ">
+                            <a class="d-block" href="#">OUR ACTIONS</a>
+                            <div class="dropdown-content text-center shadow">
+                                                                                                        <a href="https://minteshreen.com/en/campaigns">
+                                        <div>CAMPAIGNS</div>
+                                    </a>
+                                                                                                            <div class="line-dropdown line-ar-rotate"></div>
+                                                                        <a href="https://minteshreen.com/en/our-actions">
+                                        <div>ON THE GROUND</div>
+                                    </a>
+                                                                                                            <div class="line-dropdown line-ar-rotate"></div>
+                                                                        <a href="https://minteshreen.com/en/the-press">
+                                        <div>IN THE PRESS</div>
+                                    </a>
+                                                                                                            <div class="line-dropdown line-ar-rotate"></div>
+                                                                        <a href="https://minteshreen.com/en/statements">
+                                        <div>STATEMENTS</div>
+                                    </a>
+                                                            </div>
+                        </div>
+                                                                                <div class="dropdown me-2 nav-item ">
+                            <a class="d-block" href="#">JOIN US</a>
+                            <div class="dropdown-content text-center shadow">
+                                                                                                        <a href="https://minteshreen.com/en/contribute">
+                                        <div>DONATE</div>
+                                    </a>
+                                                                                                            <div class="line-dropdown line-ar-rotate"></div>
+                                                                        <a href="https://minteshreen.com/en/become-member">
+                                        <div>BECOME A MEMBER</div>
+                                    </a>
+                                                                                                            <div class="line-dropdown line-ar-rotate"></div>
+                                                                        <a href="https://minteshreen.com/en/become-volunteer">
+                                        <div>BECOME A VOLUNTEER</div>
+                                    </a>
+                                                            </div>
+                        </div>
+                                                                                <a class="me-2 nav-item " href="https://minteshreen.com/en/contact-us">CONTACT US</a>
+                                                </div>
+
+            <div class="col-auto" data-scroll data-scroll-direction="vertical" data-scroll-speed="2" data-scroll-position="top">
+                <a href="https://minteshreen.com/en/contribute" class="arrow-button-wrapper rotate-ar">
+                    <div class="arrow-button-shadow"></div>
+                    <div class="arrow-button">
+                        <span class="rotate-ar">DONATE</span>
+                    </div>
+                </a>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+<div class="search-area" data-scroll-section>
+    <div class="container h-100">
+        <form action="https://minteshreen.com/en/search" class="sidebar-search" id="search-box">
+            <div class="row align-items-center content-header h-100 pt-5">
+                <div class="col-xl-8 col-lg-8 col-md-8 col-sm-8 col-xs-8">
+                    <input name="q" type="text" class="search-button" placeholder="Enter You Search Here" value="">
+                </div>
+                <div class="col-xl-2 col-lg-2 col-md-2 col-sm-2 col-xs-2">
+                    <button type="submit">
+                        <a href="#">
+                            <img src="https://minteshreen.com/images/search.svg" alt="icon">
+                        </a>
+                    </button>
+                </div>
+                <div class="col-xl-2 col-lg-2 col-md-2 col-sm-2 col-xs-2">
+                    <img class="close-search" src="https://minteshreen.com/images/close.svg" alt="icon">
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+
+<div class="mobile-menu" data-scroll-section>
+    <div class="container">
+                                    <div class="pt-3">
+                    <a class="d-block" href="https://minteshreen.com/en">HOME</a>
+                </div>
+                                                <div class="pt-3 dropdown-mobile">
+                    <a class="dropdown-title d-block" href="#">WHO WE ARE</a>
+                    <div class="dropdown-mobile-content ps-3" style="display: none">
+                                                    <a class="d-block py-1" href="https://minteshreen.com/en/the-story">OUR STORY</a>
+                                                    <a class="d-block py-1" href="https://minteshreen.com/en/how-we-got-here">HOW WE GOT HERE</a>
+                                                    <a class="d-block py-1" href="https://minteshreen.com/en/the-team">GOVERNANCE</a>
+                                                    <a class="d-block py-1" href="https://minteshreen.com/en/our-roadmap">VISION</a>
+                                            </div>
+                </div>
+                                                <div class="pt-3">
+                    <a class="d-block" href="https://minteshreen.com/en/what-we-stand-for">POLITICAL PROGRAM</a>
+                </div>
+                                                <div class="pt-3 dropdown-mobile">
+                    <a class="dropdown-title d-block" href="#">OUR ACTIONS</a>
+                    <div class="dropdown-mobile-content ps-3" style="display: none">
+                                                    <a class="d-block py-1" href="https://minteshreen.com/en/campaigns">CAMPAIGNS</a>
+                                                    <a class="d-block py-1" href="https://minteshreen.com/en/our-actions">ON THE GROUND</a>
+                                                    <a class="d-block py-1" href="https://minteshreen.com/en/the-press">IN THE PRESS</a>
+                                                    <a class="d-block py-1" href="https://minteshreen.com/en/statements">STATEMENTS</a>
+                                            </div>
+                </div>
+                                                <div class="pt-3 dropdown-mobile">
+                    <a class="dropdown-title d-block" href="#">JOIN US</a>
+                    <div class="dropdown-mobile-content ps-3" style="display: none">
+                                                    <a class="d-block py-1" href="https://minteshreen.com/en/contribute">DONATE</a>
+                                                    <a class="d-block py-1" href="https://minteshreen.com/en/become-member">BECOME A MEMBER</a>
+                                                    <a class="d-block py-1" href="https://minteshreen.com/en/become-volunteer">BECOME A VOLUNTEER</a>
+                                            </div>
+                </div>
+                                                <div class="pt-3">
+                    <a class="d-block" href="https://minteshreen.com/en/contact-us">CONTACT US</a>
+                </div>
+                    
+        <div class="py-4">
+            <a href="https://minteshreen.com/en/contribute" class="arrow-button-wrapper rotate-ar">
+                <div class="arrow-button-shadow"></div>
+                <div class="arrow-button">
+                    <span class="rotate-ar">DONATE</span>
+                </div>
+            </a>
+        </div>
+
+        <div class="pb-4">
+                            <p><a class="lang-ar p-2" class="ps-2" href="https://minteshreen.com/ar">عربي</a></p>
+                    </div>
+    </div>
+</div>
+        
+        
+    <div data-scroll-section>
+        <div class="icons-bg   overflow-auto">
+    <div class="container py-4">
+        <div class="row align-items-center justify-content-between flex-nowrap icon-section">
+                            <div class="col-auto home-red-icons d-flex inline-block">
+                    <a class="d-flex" href="https://minteshreen.com/en/what-we-stand-for/how-we-got-here">
+                        <img class="homepage-icon" src="https://minteshreen.com/storage/stand-list/8gCZKqFlEndSUI8oPuKWIfJEs6YZbdeIC7iQfIrn.svg" alt="icon">
+                        <p class="logo-subtitle my-auto d-none d-lg-block">Economy</p>
+                    </a>
+                </div>
+                            <div class="col-auto home-red-icons d-flex inline-block">
+                    <a class="d-flex" href="https://minteshreen.com/en/what-we-stand-for/green-revolution">
+                        <img class="homepage-icon" src="https://minteshreen.com/storage/stand-list/Lawu52gCH2Gzr5hlfh9bLyp5ckoTQSHIN1rjgwVT.svg" alt="icon">
+                        <p class="logo-subtitle my-auto d-none d-lg-block">Green Revolution</p>
+                    </a>
+                </div>
+                            <div class="col-auto home-red-icons d-flex inline-block">
+                    <a class="d-flex" href="https://minteshreen.com/en/what-we-stand-for/sovereignty">
+                        <img class="homepage-icon" src="https://minteshreen.com/storage/stand-list/UtLahPA1KSns6FPMlIyC6ypNjNalsAzLJFr8lRwK.svg" alt="icon">
+                        <p class="logo-subtitle my-auto d-none d-lg-block">Sovereignty</p>
+                    </a>
+                </div>
+                            <div class="col-auto home-red-icons d-flex inline-block">
+                    <a class="d-flex" href="https://minteshreen.com/en/what-we-stand-for/social-policies">
+                        <img class="homepage-icon" src="https://minteshreen.com/storage/stand-list/rAAn8NJHSkZZ3Q0EbQA2XtkZBrhvkrfNOCDJZUG9.svg" alt="icon">
+                        <p class="logo-subtitle my-auto d-none d-lg-block">Social Justice</p>
+                    </a>
+                </div>
+                            <div class="col-auto home-red-icons d-flex inline-block">
+                    <a class="d-flex" href="https://minteshreen.com/en/what-we-stand-for/refugees">
+                        <img class="homepage-icon" src="https://minteshreen.com/storage/stand-list/suLIi6KWtiLcItLuZWQkiJZm9RL8tRZ4aeRDn7XU.svg" alt="icon">
+                        <p class="logo-subtitle my-auto d-none d-lg-block">The Refugee Crisis</p>
+                    </a>
+                </div>
+                            <div class="col-auto home-red-icons d-flex inline-block">
+                    <a class="d-flex" href="https://minteshreen.com/en/what-we-stand-for/law--institutions">
+                        <img class="homepage-icon" src="https://minteshreen.com/storage/stand-list/emsicw7SnG9JI0T19coYSInmeOl7o0Db2qnvHGBp.svg" alt="icon">
+                        <p class="logo-subtitle my-auto d-none d-lg-block">Law &amp; Institutions</p>
+                    </a>
+                </div>
+                            <div class="col-auto home-red-icons d-flex inline-block">
+                    <a class="d-flex" href="https://minteshreen.com/en/what-we-stand-for/robust-infrastructure">
+                        <img class="homepage-icon" src="https://minteshreen.com/storage/stand-list/Od27CCBjgX3EprovjM5vWtgBWrKmQCmrKd7QROPw.svg" alt="icon">
+                        <p class="logo-subtitle my-auto d-none d-lg-block">Infrastructure</p>
+                    </a>
+                </div>
+                            <div class="col-auto home-red-icons d-flex inline-block">
+                    <a class="d-flex" href="https://minteshreen.com/en/what-we-stand-for/a-civil-state">
+                        <img class="homepage-icon" src="https://minteshreen.com/storage/stand-list/9992RFEjRne2dmZDyToAapUHEj7Ch0QJ6LXavg6d.svg" alt="icon">
+                        <p class="logo-subtitle my-auto d-none d-lg-block">A Secular State</p>
+                    </a>
+                </div>
+                            <div class="col-auto home-red-icons d-flex inline-block">
+                    <a class="d-flex" href="https://minteshreen.com/en/what-we-stand-for/lebanese-diaspora">
+                        <img class="homepage-icon" src="https://minteshreen.com/storage/stand-list/KyceEBDS63xWannQBgsKz0LNGQ3J8WcbYadC6plf.svg" alt="icon">
+                        <p class="logo-subtitle my-auto d-none d-lg-block">Lebanese Diaspora</p>
+                    </a>
+                </div>
+                    </div>
+    </div>
+</div>
+    </div>
+
+    <div data-scroll-section>
+        <div class="video-bg" animate="right">
+            <video autoplay muted loop>
+                <source src="https://minteshreen.com/storage/home-setting/5b7SsqKhwsb1trdiotv1MgIFsyvG67EhTFLn5dWi.mp4" type="video/mp4">
+            </video>
+
+            <div class="play-icon d-flex align-items-center">
+                <div class="container">
+                    <div class="d-flex">
+                        <div class="open-video-popup">
+                            <img class="rotate-ar" src="https://minteshreen.com/images/play.svg" alt="icon">
+                            <a href="#" class="play ms-2">Play Video</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div data-scroll-section>
+        <div class="purple-bg py-4" animate="down">
+            <img class="circle circle-ar" src="https://minteshreen.com/images/circle.svg" alt="circle">
+            <div class="container py-4">
+                <div class="row text-center text-lg-start">
+                    <div class="col-lg-7">
+                        <h1 class="mb-4 fade-in-text" animate="right">We Are Minteshreen</h1>
+                        <p class="mb-4 fade-in-text" animate="right">Minteshreen is a progressive social liberal party that seeks to build a modern, democratic and secular state based on social justice, the rule of law and the respect for human rights.</p>
+                    </div>
+                </div>
+                <div animate="left" class="d-flex justify-content-between align-items-center space">
+                    <div class="col-12 col-lg-7">
+                        <div class="row">
+                            <div class="col-12">
+                                <a href="https://minteshreen.com/en/the-story" class="arrow-button-wrapper rotate-ar">
+                                    <div class="arrow-button-shadow"></div>
+                                    <div class="arrow-button">
+                                        <span class="rotate-ar">OUR STORY</span>
+                                    </div>
+                                </a>
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div data-scroll-section class="section1" animate="left">
+        <div class="container section-1 pt-5" data-scroll data-scroll-speed="1">
+            <div class="row justify-content-center">
+                <div class="col-xl-10 col-lg-11">
+                    <div class="image-8">
+                        <div class="opacity-black d-flex align-items-center justify-content-center px-3">
+                            <div class="text-center">
+                                <h1>Our Political Program</h1>
+                                <p class="pt-lg-4 mb-4">Minteshreen&#039;s political program identifies what structural political, economic and social reforms are required on the short-term to begin the transition towards a modern and just state. The program presents legislative and practical solutions that pave the way for a new social contract.</p>
+                                <div class="mt-lg-5 mt-3">
+                                    <a href="https://minteshreen.com/en/what-we-stand-for" class="arrow-button-wrapper black-on-white rotate-ar">
+                                        <div class="arrow-button-shadow"></div>
+                                        <div class="arrow-button">
+                                            <span class="rotate-ar">LEARN MORE</span>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <img src="https://minteshreen.com/storage/home-setting/Oyeaxg4cSw9cgPPn3aOL2ytyzkuwjApiRpdOew6Q.jpg" alt="image">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div data-scroll-section>
+        <div class="bg-black" data-scroll data-scroll-speed="2" animate="left">
+            <div class="py-5">
+                <div class="position-relative py-5">
+                    <img class="img-1 rotate-ar-img5 img-ar" src="https://minteshreen.com/storage/home-setting/H5HXDnKqAp6Uisd9tFAxWbmRvLHzZ3JYLFBoilXH.jpg" alt="image">
+                    <div class="p-lg-5">
+                        <div class="red-parag text-center text-lg-start py-5 px-5 ">
+                            <h1 class="pb-3">How We Got Here</h1>
+                            <div class="mb-4"><p>Minteshreen has identified the most significant structural defects in the Lebanese system that led us to the collapse&nbsp;</p></div>
+                            <a href="https://minteshreen.com/en/how-we-got-here" class="arrow-button-wrapper rotate-ar">
+                                <div class="arrow-button-shadow"></div>
+                                <div class="arrow-button">
+                                    <span class="rotate-ar">READ MORE</span>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div data-scroll-section>
+        <div class="pink-bg ">
+            <div class="position-relative">
+                <img class="section-3 rotate-ar rotate-ar-img" src="https://minteshreen.com/storage/home-setting/yKc9g2l4eYZh2zkeWpSh4Jsr6RE8XEArsUMgxwee.png" alt="image" data-scroll data-scroll-speed="-1" data-scroll-direction="horizontal">
+                <div class="container contributor-section py-lg-5 py-3">
+                    <div class="row justify-content-between ">
+                        <div class="col-lg-4 col-md-4 col-12 text-center text-lg-start">
+                            <h1>Contribute to Minteshreen</h1>
+                            <div class="my-lg-4"><h3>Support our people-powered movement.</h3>
+
+<h3>Donate to the cause now!</h3></div>
+                            <a href="https://minteshreen.com/en/contribute" class="arrow-button-wrapper rotate-ar">
+                                <div class="arrow-button-shadow"></div>
+                                <div class="arrow-button">
+                                    <span class="rotate-ar">CONTRIBUTE</span>
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div data-scroll-section>
+        <div class="background pb-5">
+            <div class="container py-5">
+                <div class="section-4">
+                    <div class="row justify-content-center py-3 text-center">
+                        <h1 class="mb-5">Minteshreen In The Press</h1>
+                        <div class="col-lg-5 ">
+                            <p class="news-p  mb-5">Keep up with our latest news</p>
+                        </div>
+                    </div>
+
+                    <div class="mb-5 pb-0 mb-lg-3 pb-lg-3">
+        <a href="https://arabic.cnn.com/middle-east/video/2021/06/03/v106803-salma-abdelaziz-political-movement-scrambling-fix-lebanon" class="news-grid featured" target="_blank">
+            <div class="row align-items-center">
+                <div class="col-lg-7 mb-2 mb-lg-0">
+                    <div class="image-wrapper">
+                        <img src="https://minteshreen.com/storage/news-list/nYd9DBMHCKYzIAUstLZMaCdqse82mROmwV2XEqGJ.jpg" alt="image">
+                    </div>
+                </div>
+                <div class="col-lg-5">
+                    <div class="mb-2">
+                        <img height="48" src="https://minteshreen.com/storage/news-list/a83aKTOstVTwifK6XoP4hS1q4em4fiV8y4Q7m6AQ.png" alt="logo">
+                    </div>
+                    <p class="date mb-3 pb-lg-3"><em>June 03, 2021</em></p>
+                    <h2 class="mb-2 mb-lg-3 pb-lg-3">منتشرين... محاولات وليدة يقودها الشباب لإنقاذ لبنان من الهاوية</h2>
+                    <span class="read-more-text">READ MORE</span>
+                </div>
+            </div>
+        </a>
+    </div>
+    <div class="row">
+                    <div class="col-lg-4 mb-5 pb-0 mb-lg-3 pb-lg-3">
+                <a href="https://magazin.zenith.me/de/gesellschaft/parteigründung-im-libanon" class="news-grid" target="_blank">
+                    <div class="image-wrapper mb-2">
+                        <img src="https://minteshreen.com/storage/news-list/19aVem0xqubkOPSwF4XagDEfaT7dVf2WqqPCHYcR.jpg" alt="image">
+                    </div>
+                    <div class="mb-2">
+                        <img height="24" src="https://minteshreen.com/storage/news-list/GpKVtIWDMTyV59OvFjyrPsbj12Yckxuy9J1vJqo3.png" alt="logo">
+                    </div>
+                    <p class="date mb-3">June 11, 2021</p>
+                    <p class="mb-2">Ist das nicht das schönste Land auf der Welt?</p>
+                    <span class="read-more-text">READ MORE</span>
+                </a>
+            </div>
+                    <div class="col-lg-4 mb-5 pb-0 mb-lg-3 pb-lg-3">
+                <a href="https://www.aljazeera.net/news/2021/6/8/لوفيغارو-أسسوا-حزب-منتشرين-غير" class="news-grid" target="_blank">
+                    <div class="image-wrapper mb-2">
+                        <img src="https://minteshreen.com/storage/news-list/9KEsa8HbUtcnEHmFS7MdOQkY1dWb3iWp0eBe850B.webp" alt="image">
+                    </div>
+                    <div class="mb-2">
+                        <img height="24" src="https://minteshreen.com/storage/news-list/wp84RDnwN89nGQ8XHU1dSvt4fu2rTlWRW1kepnUj.png" alt="logo">
+                    </div>
+                    <p class="date mb-3">June 08, 2021</p>
+                    <p class="mb-2">بعيدا عن الطائفية.. شباب لبنانيون يؤسسون لبناء الغد</p>
+                    <span class="read-more-text">READ MORE</span>
+                </a>
+            </div>
+                    <div class="col-lg-4 mb-5 pb-0 mb-lg-3 pb-lg-3">
+                <a href="https://www.lorientlejour.com/article/1249231/comment-les-independants-se-preparent-ou-pas-pour-2022.html" class="news-grid" target="_blank">
+                    <div class="image-wrapper mb-2">
+                        <img src="https://minteshreen.com/storage/news-list/Pt8TFFGtDEpyA0SJxppKFR46oZFayNmbUULEMAg7.jpg" alt="image">
+                    </div>
+                    <div class="mb-2">
+                        <img height="24" src="https://minteshreen.com/storage/news-list/D84vNQ4q4RWfTDos9ObZJ8RNpY19Zx1pRF9sybPQ.png" alt="logo">
+                    </div>
+                    <p class="date mb-3">August 14, 2021</p>
+                    <p class="mb-2">Comment les indépendants se préparent (ou pas) pour 2022</p>
+                    <span class="read-more-text">READ MORE</span>
+                </a>
+            </div>
+                    <div class="col-lg-4 mb-5 pb-0 mb-lg-3 pb-lg-3">
+                <a href="https://www.almarkazia.com/ar/news/show/321649/مذك-رة-تفاهم-بين-حزبي-الكتلة-الوطني-ة-و-منتشرين-لت" class="news-grid" target="_blank">
+                    <div class="image-wrapper mb-2">
+                        <img src="https://minteshreen.com/storage/news-list/mcpqIvPr6KE84v8qJuX3uXrzjh2LiA690gYu84dC.jpg" alt="image">
+                    </div>
+                    <div class="mb-2">
+                        <img height="24" src="https://minteshreen.com/storage/news-list/THDSal6XAFq3TtafwBrfK4sqSCySpLHXIsmYTstG.png" alt="logo">
+                    </div>
+                    <p class="date mb-3">June 08, 2021</p>
+                    <p class="mb-2">مذكّرة تفاهم بين &quot;الكتلة الوطنيّة&quot; و&quot;منتشرين&quot;: لتعزيز التعاون السياسي ورفع التنسيق</p>
+                    <span class="read-more-text">READ MORE</span>
+                </a>
+            </div>
+                    <div class="col-lg-4 mb-5 pb-0 mb-lg-3 pb-lg-3">
+                <a href="https://www.arabnews.com/node/1762641/middle-east" class="news-grid" target="_blank">
+                    <div class="image-wrapper mb-2">
+                        <img src="https://minteshreen.com/storage/news-list/T2251jvyDfntyX3VPDwR4tQnWGgHQoZahrtfL706.jpg" alt="image">
+                    </div>
+                    <div class="mb-2">
+                        <img height="24" src="https://minteshreen.com/storage/news-list/me4aZK8uiLffhMGJy1sDwykO2X6nLgzWjQqudksK.png" alt="logo">
+                    </div>
+                    <p class="date mb-3">November 13, 2020</p>
+                    <p class="mb-2">Lebanon’s Basecamp sets the pace for citizens’ initiatives in fragile states</p>
+                    <span class="read-more-text">READ MORE</span>
+                </a>
+            </div>
+                    <div class="col-lg-4 mb-5 pb-0 mb-lg-3 pb-lg-3">
+                <a href="https://www.dw.com/en/young-activists-fight-for-a-new-lebanon/a-57788237" class="news-grid" target="_blank">
+                    <div class="image-wrapper mb-2">
+                        <img src="https://minteshreen.com/storage/news-list/pPH01sRBXNhgGk9ZzjF1wwuAVOspTKa08xghv0fI.jpg" alt="image">
+                    </div>
+                    <div class="mb-2">
+                        <img height="24" src="https://minteshreen.com/storage/news-list/5JN8TME49loDn7DJdOhZuRQOWovXVRh4yPqUPABg.png" alt="logo">
+                    </div>
+                    <p class="date mb-3">May 06, 2021</p>
+                    <p class="mb-2">&quot;Young activists fight for a new Lebanon&quot;</p>
+                    <span class="read-more-text">READ MORE</span>
+                </a>
+            </div>
+            </div>
+
+                    <div class="text-center mt-4">
+                        <a href="https://minteshreen.com/en/the-press" class="arrow-button-wrapper add-spacing blue-on-black rotate-ar">
+                            <div class="arrow-button-shadow"></div>
+                            <div class="arrow-button">
+                                <span class="rotate-ar">READ MORE</span>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="line2 line-ar"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div data-scroll-section>
+    <div class="py-5" animate="right">
+        <div class="container py-5">
+            <div class="row justify-content-center">
+                <div class="col-lg-6 involved text-center">
+                    <h1>GET INVOLVED</h1>
+                    <p class="py-3">Join the fight by becoming a member or a volunteer of Minteshreen</p>
+                </div>
+            </div>
+            <div class="row justify-content-center">
+                <div class="col-xl-10 col-lg-11">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-6 mb-4 mb-lg-0">
+                            <div class="image-text-hover-wrapper">
+                                <img src="https://minteshreen.com/storage/contact-setting/yB1Mu33tAPcFYcEgFE7uR8sZTtVgeIzA5oFlhlN0.jpg" alt="image">
+                                <div class="content">
+                                    <hr>
+                                    <p class="title mb-4 p-4 pb-0">Become a Member</p>
+                                    <p class="text mb-4 d-none d-sm-block">The path to State, Freedom and Social Justice starts here. Join today, to build tomorrow!</p>
+                                    <a href="https://minteshreen.com/en/become-member" class="arrow-button-wrapper white-on-red rotate-ar">
+                                        <div class="arrow-button-shadow"></div>
+                                        <div class="arrow-button">
+                                            <span class="rotate-ar">LET&#039;S GO</span>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6">
+                            <div class="image-text-hover-wrapper">
+                                <img src="https://minteshreen.com/storage/contact-setting/H8Eb5UmtnQ31WLhVWExO6F1tfIWo54HwpwiFwwJN.jpg" alt="image">
+                                <div class="content">
+                                    <hr>
+                                    <p class="title mb-4 p-4 pb-0">Become a Volunteer</p>
+                                    <p class="text mb-4 d-none d-sm-block">Join a cause and make a difference by volunteering for initiatives across Lebanon!</p>
+                                    <a href="https://minteshreen.com/en/become-volunteer" class="arrow-button-wrapper white-on-red rotate-ar">
+                                        <div class="arrow-button-shadow"></div>
+                                        <div class="arrow-button">
+                                            <span class="rotate-ar">LET&#039;S GO</span>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <div class="popup-video p-4 p-sm-5" id="popup-video">
+        <iframe src="https://www.youtube.com/embed/KhdfmdKMH3E" allowfullscreen="allowfullscreen" class="w-100 h-100">
+            Your browser doesn't support iframes
+        </iframe><a href="#" class="close-popup pr-2">
+            <img src="https://minteshreen.com/images/close.svg" alt="close"></a>
+    </div>
+
+            <div class="read-more read-more-test">
+            <div class="container h-100">
+                <div class="row justify-content-center align-items-center h-100">
+                    <div class="col-lg-10">
+                        <div class="bg-white shadow p-4">
+                            <a href="#" class="close-popup2 rotate-ar-img pr-2"><img src="https://minteshreen.com/images/close-popup.svg" alt="close"></a>
+                            <h1>State</h1>
+                            Building a modern state can only be achieved by restructuring and re-defining its powers, establishing the rule of law, and identifying the sound foundations that would better position the state’s defense and foreign policies
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+            <div class="read-more read-more-test1">
+            <div class="container h-100">
+                <div class="row justify-content-center align-items-center h-100">
+                    <div class="col-lg-10">
+                        <div class="bg-white shadow p-4">
+                            <a href="#" class="close-popup2 rotate-ar-img pr-2"><img src="https://minteshreen.com/images/close-popup.svg" alt="close"></a>
+                            <h1>Freedom</h1>
+                            <p>Securing individual freedoms can only be achieved by protecting the most basic human rights and ensuring equality among all members of society irrespective of sect, religion, gender, belief or gender identity</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+            <div class="read-more read-more-test3">
+            <div class="container h-100">
+                <div class="row justify-content-center align-items-center h-100">
+                    <div class="col-lg-10">
+                        <div class="bg-white shadow p-4">
+                            <a href="#" class="close-popup2 rotate-ar-img pr-2"><img src="https://minteshreen.com/images/close-popup.svg" alt="close"></a>
+                            <h1>Social Justice</h1>
+                            <p>Social justice can only be achieved by setting the foundations for equal opportunities among citizens and securing a fulfilling life through advanced educational, health and housing policies.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    
+
+                    <div data-scroll-section>
+    <div class="footer pt-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-3">
+                    <div class="mb-4 pb-3">
+                        <a href="https://minteshreen.com/en">
+                            <img src="https://minteshreen.com/images/logo.svg" alt="logo">
+                        </a>
+                    </div>
+                    <div class="mb-4">
+                        <div class="footer-line"></div>
+                    </div>
+                    <p class="location mb-0">Mar Mikhael</p>
+                    <p class="location mb-0">Beirut, Lebanon</p>
+                </div>
+                <div class="col-lg footer-2">
+                    <div class="row mt-4 pt-1">
+                                                    <div class="col-lg mb-4 mb-lg-0">
+                                <div class="mb-2 pb-1">
+                                    <p class="mb-2 pb-1"><b>QUICK LINKS</b></p>
+                                    <div class="footer-line categories"></div>
+                                </div>
+                                                                    <div>
+                                        <p class="mb-2 pb-1"><a href="https://minteshreen.com/en">Home</a></p>
+                                    </div>
+                                                                    <div>
+                                        <p class="mb-2 pb-1"><a href="https://minteshreen.com/en/what-we-stand-for">Political Program</a></p>
+                                    </div>
+                                                                    <div>
+                                        <p class="mb-2 pb-1"><a href="https://minteshreen.com/en/contact-us">Contact Us</a></p>
+                                    </div>
+                                                            </div>
+                                                    <div class="col-lg mb-4 mb-lg-0">
+                                <div class="mb-2 pb-1">
+                                    <p class="mb-2 pb-1"><b>OUR STORY</b></p>
+                                    <div class="footer-line categories"></div>
+                                </div>
+                                                                    <div>
+                                        <p class="mb-2 pb-1"><a href="https://minteshreen.com/en/the-story">Our Story</a></p>
+                                    </div>
+                                                                    <div>
+                                        <p class="mb-2 pb-1"><a href="https://minteshreen.com/en/how-we-got-here">How We Got Here</a></p>
+                                    </div>
+                                                                    <div>
+                                        <p class="mb-2 pb-1"><a href="https://minteshreen.com/en/the-team">Governance</a></p>
+                                    </div>
+                                                                    <div>
+                                        <p class="mb-2 pb-1"><a href="https://minteshreen.com/en/our-roadmap">Vision</a></p>
+                                    </div>
+                                                            </div>
+                                                    <div class="col-lg mb-4 mb-lg-0">
+                                <div class="mb-2 pb-1">
+                                    <p class="mb-2 pb-1"><b>OUR ACTIONS</b></p>
+                                    <div class="footer-line categories"></div>
+                                </div>
+                                                                    <div>
+                                        <p class="mb-2 pb-1"><a href="https://minteshreen.com/en/our-actions">On The Ground</a></p>
+                                    </div>
+                                                                    <div>
+                                        <p class="mb-2 pb-1"><a href="https://minteshreen.com/en/the-press">In The Press</a></p>
+                                    </div>
+                                                                    <div>
+                                        <p class="mb-2 pb-1"><a href="https://minteshreen.com/en/statements">Statements</a></p>
+                                    </div>
+                                                            </div>
+                                                    <div class="col-lg mb-4 mb-lg-0">
+                                <div class="mb-2 pb-1">
+                                    <p class="mb-2 pb-1"><b>JOIN US</b></p>
+                                    <div class="footer-line categories"></div>
+                                </div>
+                                                                    <div>
+                                        <p class="mb-2 pb-1"><a href="https://minteshreen.com/en/contribute">Donate</a></p>
+                                    </div>
+                                                                    <div>
+                                        <p class="mb-2 pb-1"><a href="https://minteshreen.com/en/become-member">Become A Member</a></p>
+                                    </div>
+                                                                    <div>
+                                        <p class="mb-2 pb-1"><a href="https://minteshreen.com/en/become-volunteer">Become A Volunteer</a></p>
+                                    </div>
+                                                            </div>
+                                            </div>
+                </div>
+            </div>
+        </div>
+        <hr class="footer-line2">
+        <div class="container py-3">
+            <div class="row">
+                <div class="col-lg">
+                    <p class="copy-right mb-3 mb-lg-0">All Rights Reserved, Copyrights Of Minteshreen</p>
+                </div>
+                <div class="col-lg-auto">
+                    <div class="row">
+                                                    <div class="col-auto">
+                                <div class="social-icon pr-2">
+                                    <a href="https://www.instagram.com/minteshreen" target="_blank">
+                                        <img src="https://minteshreen.com/storage/social-media/HHYjN6pIehTHFtgvqUX9SisrjbCI1ZLGqB6wIg0t.svg" alt="icon">
+                                    </a>
+                                </div>
+                            </div>
+                                                    <div class="col-auto">
+                                <div class="social-icon pr-2">
+                                    <a href="https://www.facebook.com/minteshreen" target="_blank">
+                                        <img src="https://minteshreen.com/storage/social-media/yDIdhUVwqrYddKbhWnwOko2qy49jEvJRdFWEbHpo.svg" alt="icon">
+                                    </a>
+                                </div>
+                            </div>
+                                                    <div class="col-auto">
+                                <div class="social-icon pr-2">
+                                    <a href="https://www.youtube.com/minteshreen" target="_blank">
+                                        <img src="https://minteshreen.com/storage/social-media/WWjtmTDaiozznPHsDIiw8xFLCpWYqN7viAsewHBx.svg" alt="icon">
+                                    </a>
+                                </div>
+                            </div>
+                                                    <div class="col-auto">
+                                <div class="social-icon pr-2">
+                                    <a href="https://twitter.com/minteshreen" target="_blank">
+                                        <img src="https://minteshreen.com/storage/social-media/WXtszirztBKHOjjA54SKc57s2eubOMhnsCuvMrQv.svg" alt="icon">
+                                    </a>
+                                </div>
+                            </div>
+                                            </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+        
+    </div>
+
+    <div class="scroll-to-top d-flex align-items-center justify-content-center">
+        <img src="https://minteshreen.com/images/to-top.svg">
+    </div>
+
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+    <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fullPage.js/3.1.2/fullpage.min.js"></script>
+    <script src="https://minteshreen.com/js/locomotive-scroll.min.js"></script>
+    <script src="https://minteshreen.com/js/main.js"></script>
+    </body>
+
+</html>
