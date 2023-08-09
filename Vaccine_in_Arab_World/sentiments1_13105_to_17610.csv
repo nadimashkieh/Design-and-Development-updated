@@ -1,0 +1,658 @@
+,sentiment,city,country,region
+0,negative,Salt,Jordan,Levant
+1,neutral,Amman,Syria,Levant
+2,negative,Riyadh,Saudi Arabia,Gulf
+3,neutral,Riyadh,Saudi Arabia,Gulf
+4,negative,Salt,Jordan,Levant
+5,positive,Riyadh,Saudi Arabia,Gulf
+6,positive,Riyadh,Saudi Arabia,Gulf
+7,negative,Salt,Jordan,Levant
+8,negative,Jeddha,Saudi Arabia,Gulf
+9,positive,Riyadh,Saudi Arabia,Gulf
+10,neutral,Riyadh,Saudi Arabia,Gulf
+11,neutral,Rabat,Morocco,Maghreb
+12,negative,Khartoum,Sudan,Nile Basin
+13,positive,Salt,Jordan,Levant
+14,negative,Riyadh,Saudi Arabia,Gulf
+15,negative,Riyadh,Saudi Arabia,Gulf
+16,neutral,Riyadh,Saudi Arabia,Gulf
+17,positive,Jeddha,Saudi Arabia,Levant
+18,negative,Salt,Jordan,Levant
+19,neutral,Riyadh,Saudi Arabia,Gulf
+20,positive,Riyadh,Saudi Arabia,Gulf
+21,neutral,Riyadh,Saudi Arabia,Gulf
+22,neutral,Salt,Jordan,Levant
+23,positive,Salt,Jordan,Levant
+24,positive,Salt,Jordan,Levant
+25,neutral,Riyadh,Saudi Arabia,Gulf
+26,negative,Riyadh,Saudi Arabia,Gulf
+27,negative,Riyadh,Saudi Arabia,Gulf
+28,negative,Riyadh,Saudi Arabia,Gulf
+29,neutral,Riyadh,Saudi Arabia,Gulf
+30,negative,Jeddha,Saudi Arabia,Gulf
+31,negative,Riyadh,Saudi Arabia,Gulf
+32,positive,Riyadh,Saudi Arabia,Gulf
+33,negative,Salt,Jordan,Levant
+34,negative,Salt,Jordan,Levant
+35,neutral,Riyadh,Saudi Arabia,Gulf
+36,negative,Riyadh,Saudi Arabia,Gulf
+37,negative,Salt,Jordan,Levant
+38,negative,Riyadh,Saudi Arabia,Gulf
+39,neutral,Riyadh,Saudi Arabia,Gulf
+40,neutral,Riyadh,Saudi Arabia,Gulf
+41,neutral,Salt,Jordan,Levant
+42,negative,Riyadh,Saudi Arabia,Gulf
+43,neutral,Riyadh,Saudi Arabia,Gulf
+44,neutral,Riyadh,Saudi Arabia,Gulf
+45,neutral,Salt,Jordan,Levant
+46,negative,Rabat,Morocco,Maghreb
+47,neutral,Riyadh,Saudi Arabia,Gulf
+48,negative,Riyadh,Saudi Arabia,Gulf
+49,neutral,Riyadh,Saudi Arabia,Gulf
+50,positive,Salt,Jordan,Levant
+51,neutral,Riyadh,Saudi Arabia,Gulf
+52,positive,Salt,Jordan,Levant
+53,negative,Riyadh,Saudi Arabia,Gulf
+54,neutral,Riyadh,Saudi Arabia,Gulf
+55,neutral,Riyadh,Saudi Arabia,Gulf
+56,negative,Riyadh,Saudi Arabia,Gulf
+57,neutral,Jeddha,Saudi Arabia,Gulf
+58,neutral,Riyadh,Saudi Arabia,Gulf
+59,negative,Salt,Jordan,Levant
+60,neutral,Riyadh,Saudi Arabia,Gulf
+61,positive,Riyadh,Saudi Arabia,Gulf
+62,neutral,Riyadh,Saudi Arabia,Gulf
+63,neutral,Jeddha,Saudi Arabia,Levant
+64,negative,Riyadh,Saudi Arabia,Gulf
+65,neutral,Riyadh,Saudi Arabia,Gulf
+66,negative,Riyadh,Saudi Arabia,Gulf
+67,neutral,Riyadh,Saudi Arabia,Gulf
+68,negative,Salt,Jordan,Levant
+69,negative,Riyadh,Saudi Arabia,Gulf
+70,negative,Riyadh,Saudi Arabia,Gulf
+71,negative,Salt,Jordan,Levant
+72,neutral,Riyadh,Saudi Arabia,Gulf
+73,neutral,Riyadh,Saudi Arabia,Gulf
+74,neutral,Riyadh,Saudi Arabia,Gulf
+75,neutral,Salt,Jordan,Levant
+76,positive,Riyadh,Saudi Arabia,Gulf
+77,negative,Salt,Jordan,Levant
+78,positive,Riyadh,Saudi Arabia,Gulf
+79,neutral,Jeddha,Saudi Arabia,Gulf
+80,positive,Salt,Jordan,Levant
+81,positive,Salt,Jordan,Levant
+82,neutral,Riyadh,Saudi Arabia,Gulf
+83,negative,Riyadh,Saudi Arabia,Gulf
+84,neutral,Riyadh,Saudi Arabia,Gulf
+85,negative,Riyadh,Saudi Arabia,Gulf
+86,neutral,Riyadh,Saudi Arabia,Gulf
+87,negative,Riyadh,Saudi Arabia,Gulf
+88,neutral,Riyadh,Saudi Arabia,Gulf
+89,neutral,Riyadh,Saudi Arabia,Gulf
+90,negative,Riyadh,Saudi Arabia,Gulf
+91,neutral,Riyadh,Saudi Arabia,Gulf
+92,negative,Riyadh,Saudi Arabia,Gulf
+93,negative,Salt,Jordan,Levant
+94,positive,Riyadh,Saudi Arabia,Gulf
+95,positive,Riyadh,Saudi Arabia,Gulf
+96,positive,Salt,Jordan,Levant
+97,negative,Riyadh,Saudi Arabia,Gulf
+98,negative,Salt,Jordan,Levant
+99,negative,Salt,Jordan,Levant
+100,negative,Riyadh,Saudi Arabia,Gulf
+101,neutral,Riyadh,Saudi Arabia,Gulf
+102,negative,Riyadh,Saudi Arabia,Gulf
+103,neutral,Riyadh,Saudi Arabia,Gulf
+104,neutral,Jeddha,Saudi Arabia,Levant
+105,neutral,Riyadh,Saudi Arabia,Gulf
+106,neutral,Riyadh,Saudi Arabia,Gulf
+107,neutral,Riyadh,Saudi Arabia,Gulf
+108,negative,Riyadh,Saudi Arabia,Gulf
+109,negative,Salt,Jordan,Levant
+110,negative,Riyadh,Saudi Arabia,Gulf
+111,neutral,Riyadh,Saudi Arabia,Gulf
+112,positive,Riyadh,Saudi Arabia,Gulf
+113,neutral,Riyadh,Saudi Arabia,Gulf
+114,neutral,Salt,Saudi Arabia,Gulf
+115,neutral,Riyadh,Saudi Arabia,Gulf
+116,neutral,Riyadh,Saudi Arabia,Gulf
+117,neutral,Riyadh,Saudi Arabia,Gulf
+118,negative,Jeddha,Saudi Arabia,Gulf
+119,negative,Jeddha,Saudi Arabia,Levant
+120,neutral,Riyadh,Saudi Arabia,Gulf
+121,neutral,Riyadh,Saudi Arabia,Gulf
+122,neutral,Riyadh,Saudi Arabia,Gulf
+123,neutral,Amman,Syria,Levant
+124,neutral,Riyadh,Saudi Arabia,Gulf
+125,negative,Salt,Jordan,Levant
+126,neutral,Riyadh,Saudi Arabia,Gulf
+127,negative,Riyadh,Saudi Arabia,Gulf
+128,positive,Riyadh,Saudi Arabia,Gulf
+129,negative,Salt,Jordan,Levant
+130,negative,Riyadh,Saudi Arabia,Gulf
+131,neutral,Riyadh,Saudi Arabia,Gulf
+132,negative,Riyadh,Saudi Arabia,Gulf
+133,positive,Salt,Jordan,Levant
+134,neutral,Jeddha,Saudi Arabia,Levant
+135,positive,Salt,Jordan,Levant
+136,neutral,Salt,Saudi Arabia,Gulf
+137,negative,Riyadh,Saudi Arabia,Gulf
+138,neutral,Riyadh,Saudi Arabia,Gulf
+139,neutral,Rabat,Morocco,Maghreb
+140,neutral,Riyadh,Saudi Arabia,Gulf
+141,negative,Riyadh,Saudi Arabia,Gulf
+142,negative,Riyadh,Saudi Arabia,Gulf
+143,neutral,Riyadh,Saudi Arabia,Gulf
+144,neutral,Riyadh,Saudi Arabia,Gulf
+145,neutral,Jeddha,Saudi Arabia,Levant
+146,negative,Damascus,Syria,Levant
+147,positive,Riyadh,Saudi Arabia,Gulf
+148,negative,Riyadh,Saudi Arabia,Gulf
+149,negative,Riyadh,Saudi Arabia,Gulf
+150,neutral,Jeddha,Saudi Arabia,Levant
+151,neutral,Riyadh,Saudi Arabia,Gulf
+152,neutral,Riyadh,Saudi Arabia,Gulf
+153,negative,Riyadh,Saudi Arabia,Gulf
+154,neutral,Jeddha,Saudi Arabia,Gulf
+155,neutral,Salt,Jordan,Levant
+156,neutral,Riyadh,Saudi Arabia,Gulf
+157,neutral,Salt,Jordan,Levant
+158,neutral,Salt,Jordan,Levant
+159,neutral,Salt,Jordan,Levant
+160,negative,Riyadh,Saudi Arabia,Gulf
+161,neutral,Salt,Jordan,Levant
+162,neutral,Salt,Jordan,Levant
+163,neutral,Riyadh,Saudi Arabia,Gulf
+164,neutral,Salt,Jordan,Levant
+165,neutral,Salt,Jordan,Levant
+166,negative,Riyadh,Saudi Arabia,Gulf
+167,neutral,Salt,Jordan,Levant
+168,neutral,Salt,Jordan,Levant
+169,neutral,Jeddha,Saudi Arabia,Gulf
+170,neutral,Riyadh,Saudi Arabia,Gulf
+171,neutral,Salt,Jordan,Levant
+172,positive,Riyadh,Saudi Arabia,Gulf
+173,negative,Riyadh,Saudi Arabia,Gulf
+174,neutral,Salt,Jordan,Levant
+175,negative,Riyadh,Saudi Arabia,Gulf
+176,neutral,Riyadh,Saudi Arabia,Gulf
+177,negative,Riyadh,Saudi Arabia,Gulf
+178,neutral,Salt,Jordan,Levant
+179,neutral,Salt,Jordan,Levant
+180,negative,Jeddha,Saudi Arabia,Gulf
+181,negative,Riyadh,Saudi Arabia,Gulf
+182,neutral,Riyadh,Saudi Arabia,Gulf
+183,neutral,Riyadh,Saudi Arabia,Gulf
+184,neutral,Salt,Jordan,Levant
+185,neutral,Riyadh,Saudi Arabia,Gulf
+186,neutral,Riyadh,Saudi Arabia,Gulf
+187,neutral,Salt,Jordan,Levant
+188,neutral,Riyadh,Saudi Arabia,Gulf
+189,neutral,Riyadh,Saudi Arabia,Gulf
+190,neutral,Riyadh,Saudi Arabia,Gulf
+191,neutral,Riyadh,Saudi Arabia,Gulf
+192,neutral,Rabat,Morocco,Maghreb
+193,neutral,Rabat,Morocco,Maghreb
+194,neutral,Salt,Jordan,Levant
+195,negative,Riyadh,Saudi Arabia,Gulf
+196,neutral,Salt,Jordan,Levant
+197,positive,Salt,Jordan,Levant
+198,neutral,Jeddha,Saudi Arabia,Gulf
+199,neutral,Jeddha,Saudi Arabia,Gulf
+200,neutral,Riyadh,Saudi Arabia,Gulf
+201,negative,Riyadh,Saudi Arabia,Gulf
+202,negative,Riyadh,Saudi Arabia,Gulf
+203,neutral,Salt,Jordan,Levant
+204,neutral,Riyadh,Saudi Arabia,Gulf
+205,negative,Riyadh,Saudi Arabia,Gulf
+206,neutral,Riyadh,Saudi Arabia,Gulf
+207,positive,Riyadh,Saudi Arabia,Gulf
+208,negative,Salt,Jordan,Levant
+209,neutral,Riyadh,Saudi Arabia,Gulf
+210,neutral,Riyadh,Saudi Arabia,Gulf
+211,neutral,Riyadh,Saudi Arabia,Gulf
+212,neutral,Salt,Jordan,Levant
+213,negative,Salt,Saudi Arabia,Gulf
+214,neutral,Jeddha,Saudi Arabia,Gulf
+215,neutral,Riyadh,Saudi Arabia,Gulf
+216,negative,Riyadh,Saudi Arabia,Gulf
+217,negative,Riyadh,Saudi Arabia,Gulf
+218,neutral,Riyadh,Saudi Arabia,Gulf
+219,negative,Riyadh,Saudi Arabia,Gulf
+220,neutral,Riyadh,Saudi Arabia,Gulf
+221,positive,Salt,Jordan,Levant
+222,negative,Riyadh,Saudi Arabia,Gulf
+223,negative,Salt,Jordan,Levant
+224,negative,Jeddha,Saudi Arabia,Gulf
+225,neutral,Riyadh,Saudi Arabia,Gulf
+226,neutral,Riyadh,Saudi Arabia,Gulf
+227,neutral,Riyadh,Saudi Arabia,Gulf
+228,neutral,Riyadh,Saudi Arabia,Gulf
+229,negative,Salt,Saudi Arabia,Gulf
+230,neutral,Salt,Jordan,Levant
+231,negative,Riyadh,Saudi Arabia,Gulf
+232,neutral,Amman,Syria,Levant
+233,neutral,Amman,Syria,Levant
+234,neutral,Riyadh,Saudi Arabia,Gulf
+235,neutral,Riyadh,Saudi Arabia,Gulf
+236,neutral,Riyadh,Saudi Arabia,Gulf
+237,neutral,Riyadh,Saudi Arabia,Gulf
+238,negative,Amman,Syria,Levant
+239,neutral,Riyadh,Saudi Arabia,Gulf
+240,neutral,Riyadh,Saudi Arabia,Gulf
+241,neutral,Riyadh,Saudi Arabia,Gulf
+242,neutral,Riyadh,Saudi Arabia,Gulf
+243,neutral,Riyadh,Saudi Arabia,Gulf
+244,negative,Jeddha,Saudi Arabia,Gulf
+245,positive,Riyadh,Saudi Arabia,Gulf
+246,neutral,Riyadh,Saudi Arabia,Gulf
+247,neutral,Salt,Jordan,Levant
+248,negative,Salt,Saudi Arabia,Gulf
+249,negative,Salt,Jordan,Levant
+250,negative,Jeddha,Saudi Arabia,Gulf
+251,negative,Salt,Jordan,Levant
+252,neutral,Salt,Jordan,Levant
+253,negative,Riyadh,Saudi Arabia,Gulf
+254,negative,Riyadh,Saudi Arabia,Gulf
+255,negative,Riyadh,Saudi Arabia,Gulf
+256,neutral,Riyadh,Saudi Arabia,Gulf
+257,neutral,Riyadh,Saudi Arabia,Gulf
+258,negative,Riyadh,Saudi Arabia,Gulf
+259,neutral,Jeddha,Saudi Arabia,Gulf
+260,negative,Riyadh,Saudi Arabia,Gulf
+261,neutral,Riyadh,Saudi Arabia,Gulf
+262,negative,Riyadh,Saudi Arabia,Gulf
+263,neutral,Riyadh,Saudi Arabia,Gulf
+264,neutral,Riyadh,Saudi Arabia,Gulf
+265,negative,Riyadh,Saudi Arabia,Gulf
+266,neutral,Riyadh,Saudi Arabia,Gulf
+267,neutral,Riyadh,Saudi Arabia,Gulf
+268,negative,Salt,Jordan,Levant
+269,negative,Riyadh,Saudi Arabia,Gulf
+270,neutral,Riyadh,Saudi Arabia,Gulf
+271,negative,Riyadh,Saudi Arabia,Gulf
+272,negative,Riyadh,Saudi Arabia,Gulf
+273,neutral,Riyadh,Saudi Arabia,Gulf
+274,negative,Riyadh,Saudi Arabia,Gulf
+275,negative,Riyadh,Saudi Arabia,Gulf
+276,negative,Riyadh,Saudi Arabia,Gulf
+277,neutral,Riyadh,Saudi Arabia,Gulf
+278,neutral,Riyadh,Saudi Arabia,Gulf
+279,negative,Riyadh,Saudi Arabia,Gulf
+280,neutral,Rabat,Morocco,Maghreb
+281,negative,Riyadh,Saudi Arabia,Gulf
+282,negative,Riyadh,Saudi Arabia,Gulf
+283,negative,Riyadh,Saudi Arabia,Gulf
+284,negative,Riyadh,Saudi Arabia,Gulf
+285,neutral,Jeddha,Saudi Arabia,Gulf
+286,negative,Riyadh,Saudi Arabia,Gulf
+287,neutral,Riyadh,Saudi Arabia,Gulf
+288,neutral,Riyadh,Saudi Arabia,Gulf
+289,neutral,Riyadh,Saudi Arabia,Gulf
+290,neutral,Jeddha,Saudi Arabia,Gulf
+291,negative,Riyadh,Saudi Arabia,Gulf
+292,negative,Riyadh,Saudi Arabia,Gulf
+293,negative,Riyadh,Saudi Arabia,Gulf
+294,neutral,Riyadh,Saudi Arabia,Gulf
+295,neutral,Riyadh,Saudi Arabia,Gulf
+296,neutral,Jeddha,Saudi Arabia,Gulf
+297,negative,Riyadh,Saudi Arabia,Gulf
+298,neutral,Jeddha,Saudi Arabia,Gulf
+299,negative,Salt,Jordan,Levant
+300,negative,Jeddha,Saudi Arabia,Levant
+301,neutral,Riyadh,Saudi Arabia,Gulf
+302,neutral,Jeddha,Saudi Arabia,Gulf
+303,neutral,Riyadh,Saudi Arabia,Gulf
+304,positive,Riyadh,Saudi Arabia,Gulf
+305,negative,Riyadh,Saudi Arabia,Gulf
+306,negative,Riyadh,Saudi Arabia,Gulf
+307,neutral,Riyadh,Saudi Arabia,Gulf
+308,neutral,Salt,Jordan,Levant
+309,neutral,Salt,Jordan,Levant
+310,negative,Riyadh,Saudi Arabia,Gulf
+311,positive,Riyadh,Saudi Arabia,Gulf
+312,neutral,Riyadh,Saudi Arabia,Gulf
+313,neutral,Jeddha,Saudi Arabia,Gulf
+314,neutral,Khartoum,Sudan,Nile Basin
+315,positive,Riyadh,Saudi Arabia,Gulf
+316,negative,Riyadh,Saudi Arabia,Gulf
+317,negative,Riyadh,Saudi Arabia,Gulf
+318,positive,Riyadh,Saudi Arabia,Gulf
+319,negative,Riyadh,Saudi Arabia,Gulf
+320,neutral,Riyadh,Saudi Arabia,Gulf
+321,neutral,Salt,Jordan,Levant
+322,neutral,Khartoum,Sudan,Nile Basin
+323,neutral,Jeddha,Saudi Arabia,Gulf
+324,neutral,Riyadh,Saudi Arabia,Gulf
+325,neutral,Khartoum,Sudan,Nile Basin
+326,negative,Salt,Jordan,Levant
+327,neutral,Riyadh,Saudi Arabia,Gulf
+328,neutral,Khartoum,Sudan,Nile Basin
+329,neutral,Riyadh,Saudi Arabia,Gulf
+330,neutral,Salt,Jordan,Levant
+331,positive,Riyadh,Saudi Arabia,Gulf
+332,neutral,Riyadh,Saudi Arabia,Gulf
+333,neutral,Khartoum,Sudan,Nile Basin
+334,negative,Riyadh,Saudi Arabia,Gulf
+335,neutral,Riyadh,Saudi Arabia,Gulf
+336,positive,Khartoum,Sudan,Nile Basin
+337,positive,Riyadh,Saudi Arabia,Gulf
+338,negative,Riyadh,Saudi Arabia,Gulf
+339,positive,Riyadh,Saudi Arabia,Gulf
+340,neutral,Amman,Syria,Levant
+341,positive,Jeddha,Saudi Arabia,Gulf
+342,positive,Salt,Jordan,Levant
+343,neutral,Riyadh,Saudi Arabia,Gulf
+344,neutral,Riyadh,Saudi Arabia,Gulf
+345,negative,Salt,Jordan,Levant
+346,neutral,Riyadh,Saudi Arabia,Gulf
+347,negative,Riyadh,Saudi Arabia,Gulf
+348,neutral,Jeddha,Saudi Arabia,Gulf
+349,neutral,Salt,Jordan,Levant
+350,negative,Riyadh,Saudi Arabia,Gulf
+351,neutral,Riyadh,Saudi Arabia,Gulf
+352,neutral,Riyadh,Saudi Arabia,Gulf
+353,neutral,Riyadh,Saudi Arabia,Gulf
+354,neutral,Riyadh,Saudi Arabia,Gulf
+355,neutral,Riyadh,Saudi Arabia,Gulf
+356,neutral,Amman,Syria,Levant
+357,negative,Riyadh,Saudi Arabia,Gulf
+358,neutral,Riyadh,Saudi Arabia,Gulf
+359,negative,Riyadh,Saudi Arabia,Gulf
+360,neutral,Salt,Jordan,Levant
+361,neutral,Riyadh,Saudi Arabia,Gulf
+362,negative,Riyadh,Saudi Arabia,Gulf
+363,neutral,Riyadh,Saudi Arabia,Gulf
+364,neutral,Riyadh,Saudi Arabia,Gulf
+365,neutral,Riyadh,Saudi Arabia,Gulf
+366,neutral,Jeddha,Saudi Arabia,Levant
+367,neutral,Riyadh,Saudi Arabia,Gulf
+368,negative,Khartoum,Sudan,Nile Basin
+369,neutral,Aleppo,Syria,Levant
+370,positive,Salt,Jordan,Levant
+371,positive,Riyadh,Saudi Arabia,Gulf
+372,negative,Riyadh,Saudi Arabia,Gulf
+373,neutral,Riyadh,Saudi Arabia,Gulf
+374,negative,Riyadh,Saudi Arabia,Gulf
+375,negative,Riyadh,Saudi Arabia,Gulf
+376,negative,Salt,Jordan,Levant
+377,negative,Salt,Jordan,Levant
+378,negative,Jeddha,Saudi Arabia,Gulf
+379,negative,Jeddha,Saudi Arabia,Gulf
+380,negative,Riyadh,Saudi Arabia,Gulf
+381,neutral,Riyadh,Saudi Arabia,Gulf
+382,negative,Riyadh,Saudi Arabia,Gulf
+383,neutral,Riyadh,Saudi Arabia,Gulf
+384,neutral,Jeddha,Saudi Arabia,Levant
+385,neutral,Riyadh,Saudi Arabia,Gulf
+386,negative,Riyadh,Saudi Arabia,Gulf
+387,neutral,Salt,Jordan,Levant
+388,negative,Riyadh,Saudi Arabia,Gulf
+389,neutral,Riyadh,Saudi Arabia,Gulf
+390,negative,Riyadh,Saudi Arabia,Gulf
+391,neutral,Riyadh,Saudi Arabia,Gulf
+392,negative,Rabat,Morocco,Maghreb
+393,negative,Salt,Jordan,Levant
+394,negative,Salt,Jordan,Levant
+395,positive,Jeddha,Saudi Arabia,Gulf
+396,negative,Salt,Jordan,Levant
+397,neutral,Riyadh,Saudi Arabia,Gulf
+398,neutral,Salt,Saudi Arabia,Gulf
+399,positive,Riyadh,Saudi Arabia,Gulf
+400,neutral,Jeddha,Saudi Arabia,Gulf
+401,negative,Riyadh,Saudi Arabia,Gulf
+402,negative,Riyadh,Saudi Arabia,Gulf
+403,neutral,Salt,Jordan,Levant
+404,neutral,Riyadh,Saudi Arabia,Gulf
+405,negative,Riyadh,Saudi Arabia,Gulf
+406,negative,Salt,Jordan,Levant
+407,negative,Salt,Jordan,Levant
+408,negative,Riyadh,Saudi Arabia,Gulf
+409,negative,Jeddha,Saudi Arabia,Gulf
+410,neutral,Riyadh,Saudi Arabia,Gulf
+411,negative,Jeddha,Saudi Arabia,Gulf
+412,negative,Riyadh,Saudi Arabia,Gulf
+413,positive,Riyadh,Saudi Arabia,Gulf
+414,neutral,Jeddha,Saudi Arabia,Gulf
+415,negative,Riyadh,Saudi Arabia,Gulf
+416,neutral,Riyadh,Saudi Arabia,Gulf
+417,neutral,Salt,Jordan,Levant
+418,neutral,Riyadh,Saudi Arabia,Gulf
+419,positive,Riyadh,Saudi Arabia,Gulf
+420,positive,Riyadh,Saudi Arabia,Gulf
+421,neutral,Salt,Jordan,Levant
+422,neutral,Riyadh,Saudi Arabia,Gulf
+423,neutral,Riyadh,Saudi Arabia,Gulf
+424,negative,Salt,Jordan,Levant
+425,negative,Riyadh,Saudi Arabia,Gulf
+426,positive,Riyadh,Saudi Arabia,Gulf
+427,positive,Riyadh,Saudi Arabia,Gulf
+428,negative,Riyadh,Saudi Arabia,Gulf
+429,neutral,Riyadh,Saudi Arabia,Gulf
+430,neutral,Jeddha,Saudi Arabia,Gulf
+431,neutral,Riyadh,Saudi Arabia,Gulf
+432,negative,Aleppo,Syria,Levant
+433,neutral,Riyadh,Saudi Arabia,Gulf
+434,positive,Riyadh,Saudi Arabia,Gulf
+435,neutral,Riyadh,Saudi Arabia,Gulf
+436,positive,Riyadh,Saudi Arabia,Gulf
+437,negative,Riyadh,Saudi Arabia,Gulf
+438,negative,Salt,Jordan,Levant
+439,positive,Riyadh,Saudi Arabia,Gulf
+440,negative,Salt,Jordan,Levant
+441,neutral,Jeddha,Saudi Arabia,Gulf
+442,positive,Riyadh,Saudi Arabia,Gulf
+443,positive,Riyadh,Saudi Arabia,Gulf
+444,positive,Riyadh,Saudi Arabia,Gulf
+445,positive,Riyadh,Saudi Arabia,Gulf
+446,neutral,Riyadh,Saudi Arabia,Gulf
+447,negative,Riyadh,Saudi Arabia,Gulf
+448,negative,Salt,Jordan,Levant
+449,negative,Riyadh,Saudi Arabia,Gulf
+450,neutral,Rabat,Morocco,Maghreb
+451,neutral,Riyadh,Saudi Arabia,Gulf
+452,neutral,Jeddha,Saudi Arabia,Gulf
+453,neutral,Riyadh,Saudi Arabia,Gulf
+454,neutral,Riyadh,Saudi Arabia,Gulf
+455,negative,Salt,Jordan,Levant
+456,neutral,Amman,Syria,Levant
+457,neutral,Riyadh,Saudi Arabia,Gulf
+458,neutral,Riyadh,Saudi Arabia,Gulf
+459,neutral,Riyadh,Saudi Arabia,Gulf
+460,negative,Jeddha,Saudi Arabia,Gulf
+461,negative,Riyadh,Saudi Arabia,Gulf
+462,negative,Riyadh,Saudi Arabia,Gulf
+463,neutral,Riyadh,Saudi Arabia,Gulf
+464,neutral,Jeddha,Saudi Arabia,Gulf
+465,neutral,Riyadh,Saudi Arabia,Gulf
+466,neutral,Riyadh,Saudi Arabia,Gulf
+467,neutral,Riyadh,Saudi Arabia,Gulf
+468,negative,Riyadh,Saudi Arabia,Gulf
+469,positive,Salt,Saudi Arabia,Gulf
+470,neutral,Riyadh,Saudi Arabia,Gulf
+471,neutral,Riyadh,Saudi Arabia,Gulf
+472,negative,Rabat,Morocco,Maghreb
+473,neutral,Riyadh,Saudi Arabia,Gulf
+474,negative,Salt,Saudi Arabia,Gulf
+475,positive,Riyadh,Saudi Arabia,Gulf
+476,positive,Jeddha,Saudi Arabia,Gulf
+477,negative,Riyadh,Saudi Arabia,Gulf
+478,negative,Riyadh,Saudi Arabia,Gulf
+479,positive,Salt,Jordan,Levant
+480,negative,Riyadh,Saudi Arabia,Gulf
+481,neutral,Salt,Jordan,Levant
+482,neutral,Riyadh,Saudi Arabia,Gulf
+483,neutral,Riyadh,Saudi Arabia,Gulf
+484,neutral,Salt,Jordan,Levant
+485,neutral,Riyadh,Saudi Arabia,Gulf
+486,negative,Jeddha,Saudi Arabia,Gulf
+487,neutral,Jeddha,Saudi Arabia,Gulf
+488,neutral,Salt,Jordan,Levant
+489,neutral,Jeddha,Saudi Arabia,Gulf
+490,positive,Khartoum,Sudan,Nile Basin
+491,negative,Salt,Jordan,Levant
+492,negative,Salt,Jordan,Levant
+493,negative,Riyadh,Saudi Arabia,Gulf
+494,negative,Salt,Saudi Arabia,Gulf
+495,neutral,Riyadh,Saudi Arabia,Gulf
+496,negative,Riyadh,Saudi Arabia,Gulf
+497,neutral,Riyadh,Saudi Arabia,Gulf
+498,negative,Jeddha,Saudi Arabia,Gulf
+499,neutral,Riyadh,Saudi Arabia,Gulf
+500,negative,Riyadh,Saudi Arabia,Gulf
+501,neutral,Khartoum,Sudan,Nile Basin
+502,neutral,Jeddha,Saudi Arabia,Levant
+503,neutral,Jeddha,Saudi Arabia,Gulf
+504,neutral,Salt,Jordan,Levant
+505,negative,Rabat,Morocco,Maghreb
+506,neutral,Riyadh,Saudi Arabia,Gulf
+507,negative,Riyadh,Saudi Arabia,Gulf
+508,negative,Rabat,Morocco,Maghreb
+509,negative,Salt,Jordan,Levant
+510,neutral,Riyadh,Saudi Arabia,Gulf
+511,negative,Riyadh,Saudi Arabia,Gulf
+512,neutral,Riyadh,Saudi Arabia,Gulf
+513,neutral,Jeddha,Saudi Arabia,Gulf
+514,neutral,Riyadh,Saudi Arabia,Gulf
+515,negative,Riyadh,Saudi Arabia,Gulf
+516,neutral,Aleppo,Syria,Levant
+517,negative,Salt,Jordan,Levant
+518,neutral,Riyadh,Saudi Arabia,Gulf
+519,neutral,Riyadh,Saudi Arabia,Gulf
+520,negative,Riyadh,Saudi Arabia,Gulf
+521,neutral,Aleppo,Syria,Levant
+522,neutral,Riyadh,Saudi Arabia,Gulf
+523,negative,Riyadh,Saudi Arabia,Gulf
+524,neutral,Riyadh,Saudi Arabia,Gulf
+525,negative,Riyadh,Saudi Arabia,Gulf
+526,neutral,Riyadh,Saudi Arabia,Gulf
+527,neutral,Riyadh,Saudi Arabia,Gulf
+528,negative,Salt,Jordan,Levant
+529,neutral,Aleppo,Syria,Levant
+530,neutral,Jeddha,Saudi Arabia,Gulf
+531,neutral,Riyadh,Saudi Arabia,Gulf
+532,neutral,Aleppo,Syria,Levant
+533,neutral,Salt,Jordan,Levant
+534,neutral,Riyadh,Saudi Arabia,Gulf
+535,neutral,Riyadh,Saudi Arabia,Gulf
+536,neutral,Riyadh,Saudi Arabia,Gulf
+537,neutral,Riyadh,Saudi Arabia,Gulf
+538,negative,Riyadh,Saudi Arabia,Gulf
+539,neutral,Riyadh,Saudi Arabia,Gulf
+540,negative,Salt,Jordan,Levant
+541,neutral,Jeddha,Saudi Arabia,Gulf
+542,neutral,Riyadh,Saudi Arabia,Gulf
+543,positive,Rabat,Morocco,Maghreb
+544,negative,Riyadh,Saudi Arabia,Gulf
+545,neutral,Rabat,Morocco,Maghreb
+546,positive,Riyadh,Saudi Arabia,Gulf
+547,negative,Riyadh,Saudi Arabia,Gulf
+548,negative,Riyadh,Saudi Arabia,Gulf
+549,negative,Riyadh,Saudi Arabia,Gulf
+550,positive,Salt,Jordan,Levant
+551,negative,Riyadh,Saudi Arabia,Gulf
+552,negative,Riyadh,Saudi Arabia,Gulf
+553,negative,Salt,Jordan,Levant
+554,neutral,Riyadh,Saudi Arabia,Gulf
+555,neutral,Riyadh,Saudi Arabia,Gulf
+556,neutral,Riyadh,Saudi Arabia,Gulf
+557,neutral,Riyadh,Saudi Arabia,Gulf
+558,neutral,Salt,Jordan,Levant
+559,neutral,Riyadh,Saudi Arabia,Gulf
+560,neutral,Riyadh,Saudi Arabia,Gulf
+561,neutral,Riyadh,Saudi Arabia,Gulf
+562,neutral,Salt,Jordan,Levant
+563,negative,Riyadh,Saudi Arabia,Gulf
+564,negative,Jeddha,Saudi Arabia,Gulf
+565,neutral,Riyadh,Saudi Arabia,Gulf
+566,negative,Riyadh,Saudi Arabia,Gulf
+567,negative,Riyadh,Saudi Arabia,Gulf
+568,neutral,Riyadh,Saudi Arabia,Gulf
+569,neutral,Riyadh,Saudi Arabia,Gulf
+570,negative,Riyadh,Saudi Arabia,Gulf
+571,negative,Riyadh,Saudi Arabia,Gulf
+572,neutral,Jeddha,Saudi Arabia,Gulf
+573,neutral,Riyadh,Saudi Arabia,Gulf
+574,neutral,Riyadh,Saudi Arabia,Gulf
+575,negative,Salt,Jordan,Levant
+576,positive,Riyadh,Saudi Arabia,Gulf
+577,negative,Riyadh,Saudi Arabia,Gulf
+578,neutral,Riyadh,Saudi Arabia,Gulf
+579,positive,Salt,Jordan,Levant
+580,positive,Aleppo,Syria,Levant
+581,neutral,Riyadh,Saudi Arabia,Gulf
+582,positive,Riyadh,Saudi Arabia,Gulf
+583,negative,Salt,Jordan,Levant
+584,negative,Riyadh,Saudi Arabia,Gulf
+585,neutral,Riyadh,Saudi Arabia,Gulf
+586,negative,Riyadh,Saudi Arabia,Gulf
+587,negative,Jeddha,Saudi Arabia,Gulf
+588,neutral,Riyadh,Saudi Arabia,Gulf
+589,neutral,Riyadh,Saudi Arabia,Gulf
+590,negative,Riyadh,Saudi Arabia,Gulf
+591,negative,Salt,Jordan,Levant
+592,neutral,Salt,Jordan,Levant
+593,negative,Riyadh,Saudi Arabia,Gulf
+594,negative,Riyadh,Saudi Arabia,Gulf
+595,negative,Salt,Jordan,Levant
+596,neutral,Jeddha,Saudi Arabia,Gulf
+597,neutral,Riyadh,Saudi Arabia,Gulf
+598,neutral,Riyadh,Saudi Arabia,Gulf
+599,negative,Riyadh,Saudi Arabia,Gulf
+600,negative,Riyadh,Saudi Arabia,Gulf
+601,neutral,Riyadh,Saudi Arabia,Gulf
+602,neutral,Riyadh,Saudi Arabia,Gulf
+603,neutral,Jeddha,Saudi Arabia,Gulf
+604,neutral,Riyadh,Saudi Arabia,Gulf
+605,neutral,Riyadh,Saudi Arabia,Gulf
+606,neutral,Riyadh,Saudi Arabia,Gulf
+607,neutral,Riyadh,Saudi Arabia,Gulf
+608,neutral,Riyadh,Saudi Arabia,Gulf
+609,neutral,Riyadh,Saudi Arabia,Gulf
+610,positive,Salt,Jordan,Levant
+611,negative,Salt,Jordan,Levant
+612,negative,Riyadh,Saudi Arabia,Gulf
+613,neutral,Riyadh,Saudi Arabia,Gulf
+614,positive,Salt,Jordan,Levant
+615,neutral,Riyadh,Saudi Arabia,Gulf
+616,neutral,Riyadh,Saudi Arabia,Gulf
+617,negative,Riyadh,Saudi Arabia,Gulf
+618,negative,Salt,Saudi Arabia,Gulf
+619,negative,Riyadh,Saudi Arabia,Gulf
+620,negative,Riyadh,Saudi Arabia,Gulf
+621,negative,Salt,Jordan,Levant
+622,positive,Jeddha,Saudi Arabia,Gulf
+623,negative,Rabat,Morocco,Maghreb
+624,neutral,Khartoum,Sudan,Nile Basin
+625,negative,Riyadh,Saudi Arabia,Gulf
+626,positive,Aleppo,Syria,Levant
+627,neutral,Riyadh,Saudi Arabia,Gulf
+628,negative,Riyadh,Saudi Arabia,Gulf
+629,negative,Riyadh,Saudi Arabia,Gulf
+630,negative,Riyadh,Saudi Arabia,Gulf
+631,negative,Riyadh,Saudi Arabia,Gulf
+632,negative,Riyadh,Saudi Arabia,Gulf
+633,neutral,Riyadh,Saudi Arabia,Gulf
+634,neutral,Salt,Jordan,Levant
+635,neutral,Riyadh,Saudi Arabia,Gulf
+636,negative,Jeddha,Saudi Arabia,Gulf
+637,negative,Riyadh,Saudi Arabia,Gulf
+638,negative,Riyadh,Saudi Arabia,Gulf
+639,negative,Riyadh,Saudi Arabia,Gulf
+640,neutral,Riyadh,Saudi Arabia,Gulf
+641,positive,Riyadh,Saudi Arabia,Gulf
+642,negative,Jeddha,Saudi Arabia,Gulf
+643,neutral,Riyadh,Saudi Arabia,Gulf
+644,neutral,Riyadh,Saudi Arabia,Gulf
+645,negative,Riyadh,Saudi Arabia,Gulf
+646,negative,Riyadh,Saudi Arabia,Gulf
+647,neutral,Salt,Jordan,Levant
+648,neutral,Salt,Jordan,Levant
+649,negative,Riyadh,Saudi Arabia,Gulf
+650,positive,Jeddha,Saudi Arabia,Gulf
+651,negative,Riyadh,Saudi Arabia,Gulf
+652,negative,Riyadh,Saudi Arabia,Gulf
+653,negative,Riyadh,Saudi Arabia,Gulf
+654,neutral,Riyadh,Saudi Arabia,Gulf
+655,negative,Riyadh,Saudi Arabia,Gulf
+656,negative,Riyadh,Saudi Arabia,Gulf
